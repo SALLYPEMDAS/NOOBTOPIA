@@ -1,0 +1,11 @@
+{
+  "name": "noobtopia",
+  "version": "1.0.0",
+  "description": "Two coroutines are started to control the NPC's behavior. The first coroutine generates a random message from a list of messages and creates a chat bubble above the NPC's head with the message. The chat bubble is destroyed after 7 seconds. The second coroutine generates a random direction and moves the NPC towards a new position every 33 seconds.",
+  "main": "_.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sally pemdas",
+  "license": "ISC"
+}
